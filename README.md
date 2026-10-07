@@ -86,3 +86,14 @@ Utilities Version 1.0      Dated : 12/22/2021.<br/>
 **[+]** Updated **Logger** library. <br/>
 
 written and maintained by _Haseeb_ _Heaven_ (haseebmir.hm@gmail.com)
+
+## Community modding and responsible use
+
+Please use this project for lawful, creative, educational, accessible, and
+community-friendly mods. We ask that mods remain free and that users avoid
+unlawful activity, infringement, malware, unauthorized access, and intentional
+real-world harm. See [the community modding policy](COMMUNITY_MODDING.md).
+
+The existing license in [LICENSE](LICENSE) remains in effect.
+These community preferences do not add restrictions to its permissions,
+including commercial use where permitted. Third-party rights remain valid.
